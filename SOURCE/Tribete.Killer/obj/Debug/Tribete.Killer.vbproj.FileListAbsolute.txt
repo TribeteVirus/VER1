@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\bin\Debug\Tribete.Killer.exe.config
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\bin\Debug\Tribete.Killer.exe
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\bin\Debug\Tribete.Killer.pdb
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\bin\Debug\Tribete.Killer.xml
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.Form1.resources
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.Resources.resources
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.exe
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.xml
+C:\Users\user\source\repos\Tribete.Killer\Tribete.Killer\obj\Debug\Tribete.Killer.pdb
